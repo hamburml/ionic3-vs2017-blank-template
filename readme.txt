@@ -12,10 +12,10 @@ Android Studio (in Launch Screen):
 Before you open this project, set these environment variables:
 JAVA_HOME to jdk folder
 Add to PATH:
-C:\Users\hgr\AppData\Local\Android\Sdk\platform-tools
-C:\Users\hgr\AppData\Local\Android\Sdk
-C:\Users\hgr\AppData\Local\Android\Sdk\tools
-C:\Users\hgr\AppData\Local\Android\Sdk\tools\bin
+C:\Users\<yourUser>\AppData\Local\Android\Sdk\platform-tools
+C:\Users\<yourUser>\AppData\Local\Android\Sdk
+C:\Users\<yourUser>\AppData\Local\Android\Sdk\tools
+C:\Users\<yourUser>\AppData\Local\Android\Sdk\tools\bin
 
 After you opened the project:
 - set the nodejs which is used from VS to your global VS!
@@ -24,4 +24,4 @@ After you opened the project:
 
 - set ANDROID_HOME for Tools for Apache Cordova
   Go to: Tools - Options - Tools for Apache Cordova
-  Set ANDROID_HOME to C:\Users\hgr\AppData\Local\Android\Sdk (should be there, android studio should installed it)
+  Set ANDROID_HOME to C:\Users\<yourUser>\AppData\Local\Android\Sdk (android studio creates this folder)
