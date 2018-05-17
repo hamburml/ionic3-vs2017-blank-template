@@ -9,11 +9,6 @@ import { Database } from '../../services/database.service';
 export class HomePage {
 
   constructor(public navCtrl: NavController, public database: Database) {
-    this.database.connectToDatabaseAndCreateTables().then(() => {
-      // do something
-    }).catch((e) => {
-      // handle error
-    });
     
   }
 
