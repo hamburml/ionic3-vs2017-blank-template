@@ -25,3 +25,7 @@ After you opened the project:
 - set ANDROID_HOME for Tools for Apache Cordova
   Go to: Tools - Options - Tools for Apache Cordova
   Set ANDROID_HOME to C:\Users\<yourUser>\AppData\Local\Android\Sdk (android studio creates this folder)
+
+- install the NPM Task Runner Extension for your VS 2017
+  Go to: Tools - Extensions and Updates - Select 'Online' on the left - Search for 'NPM Task Runner' - click download and restart VS 2017.
+  
